@@ -1,4 +1,4 @@
-import { CiSearch } from "react-icons/ci";
+import { GrFormSearch } from "react-icons/gr";
 import './index.css'
 
 const Navbar = () => {
@@ -8,7 +8,7 @@ const Navbar = () => {
       <li><a href="#">CATALOG</a></li>
       <li><a href="#">ABOUT US</a></li>
     </ul>
-    <CiSearch />
+    <GrFormSearch />
     </div>
   );
 };

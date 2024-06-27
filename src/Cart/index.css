@@ -22,7 +22,7 @@
   /* Cart Item */
   .cart-item {
     display: flex;
-    background-color: #f5f5f5;
+    background-color: #173a7b;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     overflow: hidden;
